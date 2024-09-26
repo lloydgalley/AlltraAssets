@@ -1,1 +1,21 @@
-
+{
+    "name": "Hyper-Barter Exchange",
+    "website": "https://alltra.global",
+    "description": "Issuance against 11::11 Gold. you get to have you rcake and eat it too.",
+    "explorer": "https://alltra.global/token/0x1839f77eBed7F388c7035f7061B4B8Ef0E72317a",
+    "research": "https://alltra.world/",
+    "symbol": "HYBX",
+    "type": "coin",
+    "decimals": 8,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x1839f77eBed7F388c7035f7061B4B8Ef0E72317a"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://alltra.world/"
+        }
+    ]
+}
