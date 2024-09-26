@@ -1,0 +1,29 @@
+{
+    "name": "11::11",
+    "website": "https://alltra.global",
+    "description": "11::11 Coin Fractionalised Gold project 100% backed by Gold. 1/1000 oz per coin",
+    "explorer": "https://alltra.global",
+    "research": "https://alltra.world/11::11coin",
+    "symbol": "11::11",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0xB6a67342C40326E41BE964D0DF4D042D1fBfdf49"
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://alltra.world/11::11coin/11::11-coin-white-paper"
+        }
+    ]
+}
