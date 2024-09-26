@@ -1,0 +1,21 @@
+{
+    "name": "Hyper-Dex Exchagne",
+    "website": "https://alltrasonicswap.trade/",
+    "description": "Governance token for the ALltra Decentralised exchange.",
+    "explorer": "https://alltra.global/token/0x0d9793861AEB9244AD1B34375a83A6730F6AdD38",
+    "research": "https://alltrasonicswap.trade/",
+    "symbol": "HYBX",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x0d9793861AEB9244AD1B34375a83A6730F6AdD38"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://alltrasonicswap.trade/"
+        }
+    ]
+}
