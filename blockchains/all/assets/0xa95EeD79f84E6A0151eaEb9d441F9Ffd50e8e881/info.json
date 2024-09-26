@@ -1,0 +1,29 @@
+{
+    "name": "AUSDC",
+    "website": "https://alltra.global",
+    "description": "Digital stable coin pegged to the US dollar as USDC",
+    "explorer": "https://alltra.global",
+    "research": "https://alltra.global/token/0xa95EeD79f84E6A0151eaEb9d441F9Ffd50e8e881",
+    "symbol": "AUSDC",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0xa95EeD79f84E6A0151eaEb9d441F9Ffd50e8e881"
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": "whitepaper",
+            "url": "Swappable at https://alltrasonicswap.trade/swap"
+        }
+    ]
+}
