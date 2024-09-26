@@ -1,0 +1,21 @@
+{
+    "name": "Wrapped Alltra",
+    "website": "https://alltrasonicswap.trade/",
+    "description": "Wrapped ALL COIN.",
+    "explorer": "https://alltra.global/token/0x2da2b8f961F161ab6320acB3377e2e844a3C3ce4",
+    "research": "https://alltrasonicswap.trade/",
+    "symbol": "WALL",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x2da2b8f961F161ab6320acB3377e2e844a3C3ce4"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://alltrasonicswap.trade/"
+        }
+    ]
+}
