@@ -1,0 +1,29 @@
+{
+    "name": "MOOLA",
+    "website": "https://alltra.global",
+    "description": "Digital stable coin pegged to the Australian Dollar $AUD",
+    "explorer": "https://alltra.global",
+    "research": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x690740f055A41FA7669f5a379Bf71B0cDF353073",
+    "symbol": "AUDA",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x690740f055A41FA7669f5a379Bf71B0cDF353073"
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": "whitepaper",
+            "url": "In IFO stage at https://alltrasonicswap.trade/ifo"
+        }
+    ]
+}
