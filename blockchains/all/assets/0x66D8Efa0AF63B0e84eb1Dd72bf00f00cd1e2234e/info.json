@@ -1,0 +1,29 @@
+{
+    "name": "AUSDT",
+    "website": "https://alltra.global",
+    "description": "Digital stable coin pegged to the US dollar Tether as USDT",
+    "explorer": "https://alltra.global",
+    "research": "https://alltra.global/token/0x66D8Efa0AF63B0e84eb1Dd72bf00f00cd1e2234e",
+    "symbol": "AUSDC",
+    "type": "coin",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/lloydgalley/AlltraAssets/tree/main/blockchains/all/assets/0x66D8Efa0AF63B0e84eb1Dd72bf00f00cd1e2234e"
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": " ",
+            "url": " "
+        },
+        {
+            "name": "whitepaper",
+            "url": "Swappable at https://alltrasonicswap.trade/swap"
+        }
+    ]
+}
