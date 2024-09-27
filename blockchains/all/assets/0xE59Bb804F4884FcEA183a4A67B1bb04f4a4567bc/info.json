@@ -1,7 +1,7 @@
 {
     "name": "CHATCOIN",
     "website": "https://alltra.global",
-    "description": "The first AI created crypto currency (check the date of creation) if you know you know.",
+    "description": "The first AI created crypto currency (check the date of creation) if you know you know. Used for humanitarian projects",
     "explorer": "https://alltra.global/token/0xE59Bb804F4884FcEA183a4A67B1bb04f4a4567bc",
     "research": "https://chatcoin.studio/",
     "symbol": "CHT",
@@ -27,7 +27,7 @@
         },
         {
             "name": "whitepaper",
-            "url": "Swappable at https://alltrasonicswap.trade/swap simply add the token to the import list and join the original AI crypto, project allocaiton Charity, Aumanitarianism, Advancement, Therapeutic services"
+            "url": "https://chatcoin.studio/whitepaper"
         }
     ]
 }
