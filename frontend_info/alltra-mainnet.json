@@ -4,5 +4,11 @@
     "url": "https://alltra.global/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/frontend_info/header-logo.png"
+  },
+  {
+    "title": "ALLTRA SmartChain Testnet",
+    "url": "#",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/frontend_info/header-logo.png"
   }
 ]
