@@ -7,7 +7,7 @@
   },
   {
     "title": "ALL Testnet",
-    "url": "#",
+    "url": "https://testnet-explorer.alltra.global",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/lloydgalley/AlltraAssets/main/frontend_info/header-logo.png"
   }
